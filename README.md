@@ -56,11 +56,15 @@ Welcome to my GitHub portfolio! Here, you'll find a curated collection of my pro
 ### Natural Disaster Alert System
 
 
-
+![5](https://github.com/karan5patel/Karan_Portfolio/assets/149525806/6f6c481f-66a2-4214-aad3-6fd4e19d1bca)
 
 **Description:** In today's fast-paced world, staying informed about natural disasters can be a challenge, especially with our busy schedules and the global spread of loved ones. Our application bridges this gap by providing timely notifications about impending natural disasters in your designated areas of interest. This system leverages advanced monitoring technologies to alert users about potential threats, ensuring you and your loved ones stay informed and prepared, no matter where you are in the world.
 
 **Technologies: AWS (Lambda, DynamoDB, API Gateway), JavaScript, HTML, Python
+
+**Automated Notification Email:**
+
+<img width="854" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/cb0325f6-460f-472a-b883-3aaedc92b513">
 
 **Backend Flow:**
 
