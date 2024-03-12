@@ -20,7 +20,10 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 ### Canadian Innovation Strategy - An end-to-end analysis
 
-![Project Image 1](link-to-image) *If you don't have a project image, consider using a tool like DALL·E to create a relevant visual representation.*
+![image](https://github.com/karan5patel/Karan_Portfolio/assets/149525806/4c70ff02-5150-47f7-8e41-b63b7ca20284)
+
+
+
 
 **Description:** Innovation is the cornerstone of economic growth and prosperity, acting as a catalyst for transforming economies and industries. Despite Canada's commendable position within the top 20 innovative countries globally, there remains significant potential for enhancement. Our project undertakes a comprehensive analysis to chart a path for advancing Canada's innovation landscape. By harnessing a variety of data analysis tools and advanced data science methodologies, we dissect patterns of success from leading nations to formulate a robust innovation strategy. This end-to-end project not only identifies key areas for improvement but also provides actionable insights and recommendations, leveraging global best practices to foster a more innovative Canada.
 
@@ -32,25 +35,41 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 ### Youtube Video Stock Information Extractor
 
-<img width="375" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/fca92e4b-c66d-4fe8-a593-6e5a527e7f23">
+<img width="743" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/bbd5c3d9-d23f-49da-8339-0bb38876256f">
 
 **Description:** In the dynamic world of stock investing, staying informed is key, yet the abundance of lengthy, often verbose YouTube videos on market trends and stock recommendations poses a challenge for the casual investor. With time as a precious commodity, sifting through these extensive videos for valuable insights becomes a daunting task. Our solution bridges this gap by offering a comprehensive system designed to summarize these videos, extracting and presenting the most pertinent information in a concise, user-friendly format. Utilizing the YouTube API for transcript extraction and the capabilities of the ChatGPT API for content summarization, this project efficiently condenses the core insights from extensive market analysis videos. This approach allows investors to stay updated on market trends and make well-informed decisions, eliminating the need to sift through hours of footage. Our solution harnesses these technologies to streamline the process of gathering crucial investment information, making it accessible and time-efficient for casual investors
 
 
-
 **Technologies:** Python, Chat-GPT API, MatplotLib, Dash, HTML
+
+**Step 1:** Input Youtube Video ID
+
+Sample ID: 'umgWdsRiNN0'
+
+**STEP 2:** Run Program
+
+<img width="375" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/fca92e4b-c66d-4fe8-a593-6e5a527e7f23">
+
+**Step 3:** Select Stock of Interest and View Concise Report
+<img width="722" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/616868be-47ad-486a-9de6-f53c6b8e2d65">
+
+
 
 **[View Project](https://github.com/karan5patel/Youtube-Stock-Analysis)**
 
+**Next Steps:** Update the front end of the solution. Create UI to take input URL and output concise stock information accordingly. Add more variety in terms of information presented. 
+
 ---
 
-### Image Resolution Enhancer
+### Image Resolution Enhancer - In Progress
 
-![Project Image 3](link-to-image)
+<img width="1163" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/72fcecc7-18b1-4837-b386-2fb92f11c1e3">
+
+
 
 **Description:** Blurry images can significantly diminish the impact and usability of visual content, whether in professional presentations or personal memories. Addressing this common yet challenging issue, our project introduces a powerful image resolution enhancer powered by deep neural networks. Designed with versatility in mind, this application has been trained on a wide-ranging dataset, enabling it to effectively restore and enhance the quality of images across various contexts. From sharpening personal photos to refining professional graphics, our tool offers a seamless solution to improve image clarity and detail, ensuring your visuals are always of the highest quality. 
 
-**Technologies: Python, PyTorch, Scikit-Learn, Numpy, Matplotlib
+**Technologies:** Python, PyTorch, Scikit-Learn, Numpy, Matplotlib
 
 **[View Project](link-to-your-github-repo)**
 
@@ -62,7 +81,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 **Description:** In today's fast-paced world, staying informed about natural disasters can be a challenge, especially with our busy schedules and the global spread of loved ones. Our application bridges this gap by providing timely notifications about impending natural disasters in your designated areas of interest. This system leverages advanced monitoring technologies to alert users about potential threats, ensuring you and your loved ones stay informed and prepared, no matter where you are in the world.
 
-**Technologies: AWS (Lambda, DynamoDB, API Gateway), JavaScript, HTML, Python
+**Technologies:** AWS (Lambda, DynamoDB, API Gateway), JavaScript, HTML, Python
 
 **Automated Notification Email:**
 
