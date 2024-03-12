@@ -2,7 +2,7 @@
 Project Portfolio
 # My GitHub Portfolio
 
-Welcome to my GitHub portfolio! Here, you'll find a curated collection of my projects, showcasing my skills in [programming languages you use], and my expertise in [areas of expertise]. Each project highlights a unique challenge I've tackled, demonstrating my problem-solving abilities and technical prowess.
+Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, showcasing skills in machine learning and analytics. Each project highlights a unique challenge I have tackled, demonstrating my problem-solving and technical abilities.
 
 ---
 
@@ -75,12 +75,11 @@ Welcome to my GitHub portfolio! Here, you'll find a curated collection of my pro
 ---
 ## About Me
 
-Provide a brief introduction about yourself here. Include your skills, interests, and any relevant professional background. Mention your goals and what drives you in the tech industry.
+Master of Engineering student at the University of Toronto with a strong academic foundation in data science, statistical analysis, and machine learning. A quick learner and detail-oriented problem solver with a passion for utilizing data to drive insights and make informed decisions. Looking for Full-Time Data positions starting May 2024. 
 
 **Contact Me:**
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn](your-linkedin-url)
-- **Twitter:** [@YourTwitter](your-twitter-link)
+- **Email:** karanj.patel@mail.utoronto.ca
+- **LinkedIn:** [linkedin.com/in/k22patel](https://www.linkedin.com/in/k22patel)
 
 Thank you for visiting my portfolio!
