@@ -10,8 +10,9 @@ Welcome to my GitHub portfolio! Here, you'll find a curated collection of my pro
 
 - [Canadian Innovation Strategy ](#project-name-1)
 - [Youtube Video Stock Information Extractor](#project-name-2)
-- [Project Name 3](#project-name-3)
-- ... (Add as many projects as you have)
+- [Image Resolution Enhancer](#project-name-3)
+- [Natural Disaster Alert System](#project-name-3)
+- More to Come
 
 ---
 
@@ -25,7 +26,7 @@ Welcome to my GitHub portfolio! Here, you'll find a curated collection of my pro
 
 **Technologies:** Python, Matplotlib, ScikitLearn, ChatGPT API, Pandas
 
-**[View Project](link-to-your-github-repo)**
+**[View Project](https://github.com/karan5patel/canadian_data_science_analysis)**
 
 ---
 
@@ -37,7 +38,7 @@ Welcome to my GitHub portfolio! Here, you'll find a curated collection of my pro
 
 **Technologies:** Python, Chat-GPT API, MatplotLib, Dash, HTML
 
-**[View Project](link-to-your-github-repo)**
+**[View Project](https://github.com/karan5patel/Youtube-Stock-Analysis)**
 
 ---
 
@@ -58,7 +59,7 @@ Welcome to my GitHub portfolio! Here, you'll find a curated collection of my pro
 
 **Description:** In today's fast-paced world, staying informed about natural disasters can be a challenge, especially with our busy schedules and the global spread of loved ones. Our application bridges this gap by providing timely notifications about impending natural disasters in your designated areas of interest. This system leverages advanced monitoring technologies to alert users about potential threats, ensuring you and your loved ones stay informed and prepared, no matter where you are in the world.
 
-**Technologies: Python, PyTorch, Scikit-Learn, Numpy, Matplotlib
+**Technologies: AWS (Lambda, DynamoDB, API Gateway), JavaScript, HTML, Python
 
 **[View Project](link-to-your-github-repo)**
 
