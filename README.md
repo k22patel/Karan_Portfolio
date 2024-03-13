@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 ## Project Index
 
-- [Canadian Innovation Strategy - An End to End Analysis](#canadian-innovation-strategy)
+- [Canadian Innovation Strategy](#canadian-innovation-strategy---an-end-to-end-analysis)
 - [Youtube Video Stock Information Extractor](#youtube-video-stock-information-extractor)
 - [Image Resolution Enhancer](#image-resolution-enhancer)
 - [Natural Disaster Alert System](#natural-disaster-alert-system)
@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 ## Project Overviews
 
-## Canadian Innovation Strategy
+## Canadian Innovation Strategy - An End to End Analysis
 
 ![image](https://github.com/karan5patel/Karan_Portfolio/assets/149525806/4c70ff02-5150-47f7-8e41-b63b7ca20284)
 
