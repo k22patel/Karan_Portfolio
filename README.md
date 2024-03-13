@@ -1,5 +1,3 @@
-# Karan_Portfolio
-Project Portfolio
 # My GitHub Portfolio
 
 Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, showcasing skills in machine learning and analytics. Each project highlights a unique challenge I have tackled, demonstrating my problem-solving and technical abilities.
