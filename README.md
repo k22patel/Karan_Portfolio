@@ -8,17 +8,17 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 ## Project Index
 
-- [Canadian Innovation Strategy ](#project-name-1)
+- [Canadian Innovation Strategy](#project-name-1)
 - [Youtube Video Stock Information Extractor](#project-name-2)
 - [Image Resolution Enhancer](#project-name-3)
-- [Natural Disaster Alert System](#project-name-3)
+- [Natural Disaster Alert System](#project-name-4)
 - More to Come
 
 ---
 
 ## Project Overviews
 
-### Canadian Innovation Strategy - An end-to-end analysis
+## Canadian Innovation Strategy
 
 ![image](https://github.com/karan5patel/Karan_Portfolio/assets/149525806/4c70ff02-5150-47f7-8e41-b63b7ca20284)
 
@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 ---
 
-### Youtube Video Stock Information Extractor
+## Youtube Video Stock Information Extractor
 
 <img width="743" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/bbd5c3d9-d23f-49da-8339-0bb38876256f">
 
@@ -61,7 +61,7 @@ Sample ID: 'umgWdsRiNN0'
 
 ---
 
-### Image Resolution Enhancer - In Progress
+## Image Resolution Enhancer - In Progress
 
 <img width="1163" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/72fcecc7-18b1-4837-b386-2fb92f11c1e3">
 
@@ -74,7 +74,7 @@ Sample ID: 'umgWdsRiNN0'
 **[View Project](link-to-your-github-repo)**
 
 ---
-### Natural Disaster Alert System
+## Natural Disaster Alert System
 
 
 ![5](https://github.com/karan5patel/Karan_Portfolio/assets/149525806/6f6c481f-66a2-4214-aad3-6fd4e19d1bca)
