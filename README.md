@@ -71,7 +71,7 @@ Sample ID: 'umgWdsRiNN0'
 
 **Technologies:** Python, PyTorch, Scikit-Learn, Numpy, Matplotlib
 
-**[View Project](link-to-your-github-repo)**
+**GitHub Link - Available Soon**
 
 ---
 ## Natural Disaster Alert System
@@ -91,7 +91,7 @@ Sample ID: 'umgWdsRiNN0'
 
 <img width="915" alt="Screenshot 2024-03-12 173010" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/951c56c4-4d25-4228-a77f-883bed1592eb">
 
-**[View Project](link-to-your-github-repo)**
+**Code on AWS**
 
 ---
 ## About Me
