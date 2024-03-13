@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 ## Project Index
 
-- [Canadian Innovation Strategy](#project-name-1)
+- [Canadian Innovation Strategy](#canadian-innovation-strategy)
 - [Youtube Video Stock Information Extractor](#project-name-2)
 - [Image Resolution Enhancer](#project-name-3)
 - [Natural Disaster Alert System](#project-name-4)
