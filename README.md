@@ -35,16 +35,16 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 <img width="743" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/bbd5c3d9-d23f-49da-8339-0bb38876256f">
 
-**Description:** In the dynamic world of stock investing, staying informed is key, yet the abundance of lengthy, often verbose YouTube videos on market trends and stock recommendations poses a challenge for the casual investor. With time as a precious commodity, sifting through these extensive videos for valuable insights becomes a daunting task. The solution bridges this gap by offering a comprehensive system designed to summarize these videos, extracting and presenting the most pertinent information in a concise, user-friendly format. Utilizing the YouTube API for transcript extraction and the capabilities of the ChatGPT API for content summarization, this project efficiently condenses the core insights from extensive market analysis videos. This approach allows investors to stay updated on market trends and make well-informed decisions, eliminating the need to sift through hours of footage. This solution harnesses these technologies to streamline the process of gathering crucial investment information, making it accessible and time-efficient for casual investors
+**Description:** In the dynamic world of stock investing, staying informed is key, yet the abundance of lengthy, often lengthy YouTube videos on market trends and stock recommendations poses a challenge for the casual investor. With time as a precious commodity, sifting through these extensive videos for valuable insights becomes a daunting task. The solution bridges this gap by offering a comprehensive system designed to summarize these videos, extracting and presenting the most pertinent information in a concise, user-friendly format. Utilizing the YouTube API for transcript extraction and the capabilities of the ChatGPT API for content summarization, this project efficiently condenses the core insights from extensive market analysis videos. This approach allows investors to stay updated on market trends and make well-informed decisions, eliminating the need to sift through hours of footage. This solution harnesses these technologies to streamline the process of gathering crucial investment information, making it accessible and time-efficient for casual investors
 
 
 **Technologies:** Python, Chat-GPT API, MatplotLib, Dash, HTML
 
 **Step 1:** Input Youtube Video ID
 
-Sample ID: 'umgWdsRiNN0'
+Sample URL: https://www.youtube.com/watch?v=BWrkByUnfEk&ab_channel=FinTek
 
-**STEP 2:** Run Program
+**STEP 2:** Click the Search button
 
 <img width="375" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/fca92e4b-c66d-4fe8-a593-6e5a527e7f23">
 
