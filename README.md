@@ -46,7 +46,7 @@ Sample URL: https://www.youtube.com/watch?v=BWrkByUnfEk&ab_channel=FinTek
 
 **STEP 2:** Click the Search button
 
-<img width="375" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/fca92e4b-c66d-4fe8-a593-6e5a527e7f23">
+<img width="144" alt="image" src="https://github.com/k22patel/Karan_Portfolio/assets/149525806/004d416f-a3e5-4fc5-afa8-a99db1ad4af3">
 
 **Step 3:** Select Stock of Interest and View Concise Report
 <img width="722" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/616868be-47ad-486a-9de6-f53c6b8e2d65">
