@@ -7,9 +7,10 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 ## Project Index
 
 - [Canadian Innovation Strategy](#canadian-innovation-strategy---an-end-to-end-analysis)
+- [Natural Disaster Alert System](#natural-disaster-alert-system)
 - [Youtube Market Insight Summarizer](#youtube-market-insight-summarizer)
 - [Image Resolution Enhancer](#image-resolution-enhancer---in-progress)
-- [Natural Disaster Alert System](#natural-disaster-alert-system)
+- [NYC Real Estate Predictor](#nyc-real-estate-predictor)
 - More to Come
 
 ---
@@ -31,6 +32,24 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, s
 
 ---
 
+## Natural Disaster Alert System
+
+
+![5](https://github.com/karan5patel/Karan_Portfolio/assets/149525806/6f6c481f-66a2-4214-aad3-6fd4e19d1bca)
+
+**Description:** In today's fast-paced world, staying informed about natural disasters can be a challenge, especially with our busy schedules and the global spread of loved ones. Our application bridges this gap by providing timely notifications about impending natural disasters in your designated areas of interest. This system leverages advanced monitoring technologies to alert users about potential threats, ensuring you and your loved ones stay informed and prepared, no matter where you are in the world.
+
+**Technologies:** AWS (Lambda, DynamoDB, API Gateway), JavaScript, HTML, Python
+
+**Automated Notification Email:**
+
+<img width="854" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/cb0325f6-460f-472a-b883-3aaedc92b513">
+
+**Backend Flow:**
+
+<img width="915" alt="Screenshot 2024-03-12 173010" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/951c56c4-4d25-4228-a77f-883bed1592eb">
+
+**Code on AWS**
 ## YouTube Market Insight Summarizer
 
 <img width="743" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/bbd5c3d9-d23f-49da-8339-0bb38876256f">
@@ -52,8 +71,7 @@ Sample URL: https://www.youtube.com/watch?v=BWrkByUnfEk&ab_channel=FinTek
 **Step 3:** Select Stock of Interest and View Concise Report
 ![image](https://github.com/k22patel/Karan_Portfolio/assets/149525806/98a4fd7f-eaab-4811-b305-8c3575c009fd)
 
-
-
+---
 
 **[View Project](https://github.com/karan5patel/Youtube-Stock-Analysis)**
 
@@ -73,27 +91,17 @@ Sample URL: https://www.youtube.com/watch?v=BWrkByUnfEk&ab_channel=FinTek
 
 **GitHub Link - Available Soon**
 
+## NYC Real Estate Predictor
+
+<img width="407" alt="image" src="https://github.com/k22patel/Karan_Portfolio/assets/149525806/7292dd23-513e-4027-804b-68beebb57179">
+
+**Technologies:** Python, Scikit-Learn, XGBoost, Flask, JavaScript, HTML 
+
+**Description:**  This project is a NYC real estate price predictor based on 2024 historical prices. The dataset obtained was carefully analyzed and cleaned for modeling. The dataset was subject to a variety of models such as linear regression and XGBoost models. Upon hyperparameter tuning the model was deployed onto a Flask server to enable RESTful API collaboration, providing real-time house price predictions to the front-end website. 
+
+**GitHub Link - Available Soon**
 ---
-## Natural Disaster Alert System
 
-
-![5](https://github.com/karan5patel/Karan_Portfolio/assets/149525806/6f6c481f-66a2-4214-aad3-6fd4e19d1bca)
-
-**Description:** In today's fast-paced world, staying informed about natural disasters can be a challenge, especially with our busy schedules and the global spread of loved ones. Our application bridges this gap by providing timely notifications about impending natural disasters in your designated areas of interest. This system leverages advanced monitoring technologies to alert users about potential threats, ensuring you and your loved ones stay informed and prepared, no matter where you are in the world.
-
-**Technologies:** AWS (Lambda, DynamoDB, API Gateway), JavaScript, HTML, Python
-
-**Automated Notification Email:**
-
-<img width="854" alt="image" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/cb0325f6-460f-472a-b883-3aaedc92b513">
-
-**Backend Flow:**
-
-<img width="915" alt="Screenshot 2024-03-12 173010" src="https://github.com/karan5patel/Karan_Portfolio/assets/149525806/951c56c4-4d25-4228-a77f-883bed1592eb">
-
-**Code on AWS**
-
----
 ## About Me
 
 Master of Engineering student at the University of Toronto with a strong academic foundation in data science, statistical analysis, and machine learning. A quick learner and detail-oriented problem solver with a passion for utilizing data to drive insights and make informed decisions. Looking for Full-Time Data positions starting May 2024. 
