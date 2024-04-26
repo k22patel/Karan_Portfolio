@@ -95,9 +95,9 @@ Sample URL: https://www.youtube.com/watch?v=BWrkByUnfEk&ab_channel=FinTek
 
 <img width="407" alt="image" src="https://github.com/k22patel/Karan_Portfolio/assets/149525806/7292dd23-513e-4027-804b-68beebb57179">
 
-**Technologies:** Python, Scikit-Learn, XGBoost, Flask, JavaScript, HTML 
-
 **Description:**  This project is a NYC real estate price predictor based on 2024 historical prices. The dataset obtained was carefully analyzed and cleaned for modeling. The dataset was subject to a variety of models such as linear regression and XGBoost models. Upon hyperparameter tuning the model was deployed onto a Flask server to enable RESTful API collaboration, providing real-time house price predictions to the front-end website. 
+
+**Technologies:** Python, Scikit-Learn, XGBoost, Flask, JavaScript, HTML 
 
 **GitHub Link - Available Soon**
 ---
